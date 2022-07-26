@@ -1,0 +1,12 @@
+** To create react app **
+> npx create-react-app frontend
+
+** To start development server **
+> npm start
+
+** Dependencies **
+> npm i -D react-router-dom@latest
+> npm install react-bootstrap bootstrap
+> npm install axios
+> npm install jwt-decode
+> npm install bootstrap@5.1.3
